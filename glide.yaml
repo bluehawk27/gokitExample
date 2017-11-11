@@ -1,0 +1,5 @@
+package: github.com/bluehawk27/gokitExample
+import:
+- package: github.com/go-kit/kit
+  version: ^0.6.0
+- package: github.com/kujtimiihoxha/kit
