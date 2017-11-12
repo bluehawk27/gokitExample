@@ -3,3 +3,10 @@ import:
 - package: github.com/go-kit/kit
   version: ^0.6.0
 - package: github.com/kujtimiihoxha/kit
+- package: github.com/gorilla/mux
+  version: ^1.6.0
+- package: github.com/gorilla/handlers
+  version: ^1.3.0
+- package: github.com/go-sql-driver/mysql
+  version: ^1.3.0
+- package: github.com/jmoiron/sqlx
